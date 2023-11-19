@@ -33,7 +33,7 @@
 
 
 
-## My Skill Set  
+## My Skill Set And learning ....
 -----
 <table><tr><td valign="top" width="33%">
 
@@ -96,6 +96,18 @@
 <div align="center">
  <a target="_blank" href="https://www.linkedin.com/in/abdelrahman-eid-394337227/">	 
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ </a>
+	
+</div>
+<div align="center">
+ <a target="_blank" href="https://www.facebook.com/abdelrahmn.eidhttps://www.facebook.com/abdelrahmn.eid">	 
+ <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ </a>
+	
+</div>
+<div align="center">
+ <a target="_blank" href="https://instagram.com/abdelrahman_eid_94/">	 
+ <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
  </a>
 	
 </div>
