@@ -12,6 +12,7 @@
 	
 	
 ## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀  
+## My Email =>  aeid38858@gmail.com
   
 
 
@@ -93,12 +94,7 @@
 </div>
 <p align="center">
 	
-<div align="center">
- <a target="_blank" href="aeid38858@gmail.com">	 
- <img src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- </a>
-	
-</div>
+
 <div align="center">
  <a target="_blank" href="https://www.linkedin.com/in/abdelrahman-eid-394337227/">	 
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
