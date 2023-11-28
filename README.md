@@ -8,7 +8,7 @@
 <br/>
 
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Front+End+...;Software+Engineer...;)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Front+End+...;Software+Engineer...;)](https://abdelrahman842003.github.io/profile/)
 	
 	
 ## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀  
