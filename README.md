@@ -9,7 +9,8 @@
 
 <br/>
 <br/>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Frontend+Developer;Software+Engineer;Backend+Developer)](https://abdelrahman842003.github.io/profile/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Frontend+Developer;Software+Engineer;Backend+Developer)](https://abdelrahman842003.github.io/profile/)
 
 <br/>
 <br/>
