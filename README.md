@@ -1,7 +1,28 @@
-![GitHub Release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)
-![GitHub Marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)
-![Type Definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![Code Style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+# snk [![GitHub Workflow
+Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub
+release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub
+marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square) ![code
+style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square) Generates a snake game from a
+github user contributions graph <picture>
+    <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture> Pull a github user's contribution graph. Make it a snake Game, generate a snake path where the cells get
+eaten in an orderly fashion. Generate a
+[gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or
+[svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image. Available as github action.
+It can automatically generate a new image each day. Which makes for great [github profile
+readme](https://abdelrahman842003.github.io/profile/) [![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Front+End+...;Software+Engineer...;Backend+Engineer...;)](https://abdelrahman842003.github.io/profile/)
+## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀 ## My Email =>
+aeid38858@gmail.com - 🌱 I’m currently learning AI - ❓ Ask me about anything related to JS and related technologies - ⚡
+Fun fact: Think before act <br /> </div>
 
 ## Hi, I'm Abdelrahman Eid! 👨‍💻
 
