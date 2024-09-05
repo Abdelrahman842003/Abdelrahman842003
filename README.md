@@ -7,9 +7,12 @@
         src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture> 
 
+<br/>
+<br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Frontend+Developer;Software+Engineer;Backend+Developer)](https://abdelrahman842003.github.io/profile/)
 
-## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀 ## My Email =>
+<br/>
+<br/>
 
 ## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀 ## My Email =>
 aeid38858@gmail.com - 🌱 I’m currently learning AI - ❓ Ask me about anything related to JS and related technologies - ⚡
