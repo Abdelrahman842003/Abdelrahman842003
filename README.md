@@ -5,8 +5,10 @@
         srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> <img 
         alt="github contribution grid snake animation"
         src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture> ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Front+End+...;Software+Engineer...;Backend+Engineer...;)](https://abdelrahman842003.github.io/profile/)
+</picture> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Frontend+Developer;Software+Engineer;Backend+Developer)](https://abdelrahman842003.github.io/profile/)
+
 ## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀 ## My Email =>
 
 ## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀 ## My Email =>
