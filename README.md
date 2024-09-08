@@ -17,7 +17,7 @@
 
 I'm a full-time Frontend Developer working remotely since 2023 🚀. Here's a bit about me:
 
-- 🌱 Currently learning AI
+- 🌱 Currently learning Backend (PHP - LARAVEL)
 - ❓ Feel free to ask me about anything related to JavaScript and related technologies
 - ⚡ Fun fact: Think before you act
 
