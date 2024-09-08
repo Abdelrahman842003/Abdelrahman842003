@@ -13,10 +13,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&color=019f1f&size=30&lines=Frontend+Developer;Software+Engineer;Backend+Developer)](https://abdelrahman842003.github.io/profile/)
 
 
-## I'm Abdelrahman Eid, a full-time Frontend Dev freelance developer 👨‍💻 working remotely since 2023🚀 ## My Email =>
-aeid38858@gmail.com - 🌱 I’m currently learning AI - ❓ Ask me about anything related to JS and related technologies - ⚡
-Fun fact: Think before act <br /> </div>
-
 ## Hi, I'm Abdelrahman Eid! 👨‍💻
 
 I'm a full-time Frontend Developer working remotely since 2023 🚀. Here's a bit about me:
